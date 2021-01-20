@@ -8,7 +8,7 @@ header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - iOS
-    - Github
+    - GitHub
 ---
 
 # GitHub-Pro
@@ -118,11 +118,13 @@ Includes everything in GitHub Free plus:
 
 你也可以在GitHub的“[账单与计划](https://github.com/settings/billing)”的“当前计划”中，看到“GitHub专业版”。
 
+还有！在你自己的Profile(https://github.com/{username})的“Highlights”里面可以看到**Pro**标识。很cool吧！
+
 ### 不过...
 
 这只是临时的，我也不知道为什么。
 
-账单上说是“30元 / 月”，可是只有一天的有效期。
+账单上说是“30元 / 月”，可是**只有一天**的有效期。
 
 好吧。
 
