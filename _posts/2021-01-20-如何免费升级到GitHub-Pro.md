@@ -13,6 +13,8 @@ tags:
 
 # GitHub-Pro
 
+原创哦！你可以Star我的[仓库](https://github.com/WoLeo-Z/woleo-z.github.io/)。
+
 ## 介绍
 
 知道**GitHub-Pro**是什么吗？
@@ -62,7 +64,7 @@ Includes everything in GitHub Free plus:
 
 #### 1. 安装**TestFlight**应用
 
-已经安装的，可以跳到[步骤2]()
+已经安装的，可以跳到[步骤2](https://woleo-z.github.io/2021/01/20/%E5%A6%82%E4%BD%95%E5%85%8D%E8%B4%B9%E5%8D%87%E7%BA%A7%E5%88%B0GitHub-Pro/#2-下载github)。
 
 **所需平台**
 
@@ -86,7 +88,7 @@ Includes everything in GitHub Free plus:
 
 如果弹出提示：“此Beta版已额满”或“此Beta版本目前不接受任何新测试员”，说明链接失效了，请大家**在评论区反馈**，我看到后会及时更新。
 
-#### 4.升级到“GitHub-Pro”
+#### 3.升级到“GitHub-Pro”
 
 打开APP，点击“登录”，会弹出一个登录窗口。
 
@@ -120,7 +122,7 @@ Includes everything in GitHub Free plus:
 
 这只是临时的，我也不知道为什么。
 
-账单上说是“30元/月”，可是只有一天的有效期。
+账单上说是“30元 / 月”，可是只有一天的有效期。
 
 好吧。
 
