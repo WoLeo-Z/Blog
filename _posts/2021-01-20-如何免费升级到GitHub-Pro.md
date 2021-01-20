@@ -118,7 +118,7 @@ Includes everything in GitHub Free plus:
 
 你也可以在GitHub的“[账单与计划](https://github.com/settings/billing)”的“当前计划”中，看到“GitHub专业版”。
 
-还有！在你自己的Profile(https://github.com/{username})的“Highlights”里面可以看到**Pro**标识。很cool吧！
+还有！在你自己的Profile ( **https://github.com/{username}** ) 的“Highlights”里面可以看到**Pro**标识。很cool吧！
 
 ### 不过...
 
