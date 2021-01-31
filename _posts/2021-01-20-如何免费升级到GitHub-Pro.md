@@ -115,11 +115,11 @@ Includes everything in GitHub Free plus:
 
 ### 不过...
 
-这只是**临时**的，我也不知道为什么。
+这只是**临时**的。
 
 账单上说是“30元 / 月”，可是**只有一天**的有效期。
 
-嗯！
+研究...
 
 ## 总结
 
@@ -127,11 +127,11 @@ Includes everything in GitHub Free plus:
 
 其他的TestFlight App，亲测都行。
 
-- AdGuard VPN [参加内测](https://testflight.apple.com/join/fZRiD1zt)
+- AdGuard VPN [参加内测](https://testflight.apple.com/join/fZRiD1zt)（目前人员已满，暂时不能加入，后续更新）
 
 - 樱飞 （暂无内测）
 
-后续更新...
+更新ing...
 
 ## 最后
 
