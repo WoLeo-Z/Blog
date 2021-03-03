@@ -6,8 +6,8 @@ email: woleo@qq.com
 description: "Every failure is leading towards success."
 keyword: "WoL, WoL Blog, WoL的博客, woleo-z, iOS, Apple, iPhone"
 url: "https://woleo-z.github.io/"          # your host, for absolute URL
-baseurl: "https://cdn.jsdelivr.net/gh/WoLeo-Z/woleo-z.github.io/"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/woleo-z/woleo-z.github.io" # you code repository
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://cdn.jsdelivr.net/gh/WoLeo-Z/woleo-z.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
